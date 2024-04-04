@@ -25,8 +25,5 @@ I am a detailed-oriented individual with strong written and verbal communication
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Noah Pless | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: www.linkedin.com/in/noah-pless-2043b1281
+[Linkedin](www.linkedin.com/in/noah-pless-2043b1281)
 
