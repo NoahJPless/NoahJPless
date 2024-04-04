@@ -5,7 +5,7 @@ I am a detailed-oriented individual with strong written and verbal communication
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Updating a file through a Python algorthm</b>
-  - [Praciting DS & Algos in Python]()
+  - [Praciting DS & Algos in Python](https://docs.google.com/document/d/1mQlmDjdS8v8dJZQgttxP-r2YysRtmNA4QisAVX0EjY4/edit?usp=sharing)
 - <b>Aplying filters through SQL querys</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>File permissions in Linux</b>
