@@ -21,17 +21,12 @@ I am a detailed-oriented individual with strong written and verbal communication
 
 <h2>📜 certificates</h2>
 
-- [Google Cybersecurity by Google on Coursera. Certificate earned at April 1, 2024](https://coursera.org/share/fc24f441d1f3b6bec8556e125b0cde5e)
+- [Google Cybersecurity by Google on Coursera](https://coursera.org/share/fc24f441d1f3b6bec8556e125b0cde5e)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Noah Pless | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
 [linkedin]: www.linkedin.com/in/noah-pless-2043b1281
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
