@@ -5,23 +5,19 @@ I am a detailed-oriented individual with strong written and verbal communication
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Updating a file through a Python algorthm</b>
-  - [Praciting DS & Algos in Python](https://docs.google.com/document/d/1mQlmDjdS8v8dJZQgttxP-r2YysRtmNA4QisAVX0EjY4/edit?usp=sharing)
+  - [Creating a Pthyon algorthm](https://docs.google.com/document/d/1x1aSQ6Qte53nb2l_0elnKEM-fmTlduHFGPkgRdT35II/edit?usp=drive_link)
 - <b>Aplying filters through SQL querys</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [SQL](https://docs.google.com/document/d/1mQlmDjdS8v8dJZQgttxP-r2YysRtmNA4QisAVX0EjY4/edit?usp=drive_link)
 - <b>File permissions in Linux</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Linux](https://docs.google.com/document/d/1E6Le8koDF60Cw0JGfYILKQXCQVsaLSA24bOj_MBmvLA/edit?usp=drive_link)
 - <b>Vulnerability assesment report</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Assesment report](https://docs.google.com/document/d/1hBNSJsIg2uQ-2alJtkxBxkKLbNY2dNoMSM2lwOsrmG4/edit?usp=drive_link)
 - <b>Controls and compliance checklist report</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Frameworks & controls)](https://docs.google.com/document/d/184tbRZP4rwIa2HJSM60HvYn8GT6RdhHQPMxIS3wEkxw/edit?usp=drive_link)
 - <b>Incident report analysis</b>
-
--<b>Incident handler journal</b>
+  - [Incident report](https://docs.google.com/document/d/1CtzNXIv1zq9_zN9QgjOjGgb9DBm6bUxN12vcCymBXQ8/edit?usp=drive_link&resourcekey=0-9XJzBA5SmVjl_q8k1s2Npg)
+- <b>Incident handler journal</b>
+  - [Handler journal](https://docs.google.com/document/d/1PretvvKO0hqu5-BXDooNobBp-Oo59NL2-_9g2L1Q0iA/edit?usp=drive_link)
 
 <h2>📺 Popular YouTube Videos</h2>
 
