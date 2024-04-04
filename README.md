@@ -13,7 +13,7 @@ I am a detailed-oriented individual with strong written and verbal communication
 - <b>Vulnerability assesment report</b>
   - [Assesment report](https://docs.google.com/document/d/1hBNSJsIg2uQ-2alJtkxBxkKLbNY2dNoMSM2lwOsrmG4/edit?usp=drive_link)
 - <b>Controls and compliance checklist report</b>
-  - [Frameworks & controls)](https://docs.google.com/document/d/184tbRZP4rwIa2HJSM60HvYn8GT6RdhHQPMxIS3wEkxw/edit?usp=drive_link)
+  - [Frameworks & controls](https://docs.google.com/document/d/184tbRZP4rwIa2HJSM60HvYn8GT6RdhHQPMxIS3wEkxw/edit?usp=drive_link)
 - <b>Incident report analysis</b>
   - [Incident report](https://docs.google.com/document/d/1CtzNXIv1zq9_zN9QgjOjGgb9DBm6bUxN12vcCymBXQ8/edit?usp=drive_link&resourcekey=0-9XJzBA5SmVjl_q8k1s2Npg)
 - <b>Incident handler journal</b>
