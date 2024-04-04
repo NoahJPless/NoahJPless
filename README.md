@@ -19,13 +19,9 @@ I am a detailed-oriented individual with strong written and verbal communication
 - <b>Incident handler journal</b>
   - [Handler journal](https://docs.google.com/document/d/1PretvvKO0hqu5-BXDooNobBp-Oo59NL2-_9g2L1Q0iA/edit?usp=drive_link)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📜 certificates</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Google Cybersecurity by Google on Coursera. Certificate earned at April 1, 2024](https://coursera.org/share/fc24f441d1f3b6bec8556e125b0cde5e)
 
 <h2> 🤳 Connect with me:</h2>
 
